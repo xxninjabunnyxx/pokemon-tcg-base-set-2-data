@@ -1,0 +1,57 @@
+---
+id: base4-119
+name: Energy Removal
+supertype: Trainer
+rules:
+- Choose 1 Energy card attached to 1 of your opponent's Pokémon and discard it.
+set:
+  id: base4
+  name: Base Set 2
+  series: Base
+  printedTotal: 130
+  total: 130
+  legalities:
+    unlimited: Legal
+  ptcgoCode: B2
+  releaseDate: 2000/02/24
+  updatedAt: 2022/10/10 15:12:00
+  images:
+    symbol: https://images.pokemontcg.io/base4/symbol.png
+    logo: https://images.pokemontcg.io/base4/logo.png
+number: '119'
+artist: Keiji Kinebuchi
+rarity: Common
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/base4/119.png
+  large: https://images.pokemontcg.io/base4/119_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/base4-119
+  updatedAt: 2023/09/08
+  prices:
+    normal:
+      low: 0.08
+      mid: 0.26
+      high: 2.0
+      market: 0.23
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/base4-119
+  updatedAt: 2023/09/08
+  prices:
+    averageSellPrice: 0.15
+    lowPrice: 0.02
+    trendPrice: 0.17
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 0.05
+    lowPriceExPlus: 0.05
+    avg1: 0.25
+    avg7: 0.14
+    avg30: 0.18
+    reverseHoloAvg1: 0.05
+    reverseHoloAvg7: 0.05
+    reverseHoloAvg30: 0.05
